@@ -4,6 +4,14 @@
 
 A collection of concise write-ups on small things I learn day to day.
 
+## Categories
+
+- [English](#english)
+
+### English
+
+- [Touch Grass](english/touch-grass.md)
+
 ## About
 
 I shamelessly stole this idea from

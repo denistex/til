@@ -6,12 +6,12 @@ A collection of concise write-ups on small things I learn day to day.
 
 ## Categories
 
-- [C#](#c#)
+- [C Sharp](#c-sharp)
 - [English](#english)
 
-### C#
+### C Sharp
 
-- [Struct Default Constructor](c#/struct-default-constructor.md)
+- [Struct Default Constructor](c-sharp/struct-default-constructor.md)
 
 ### English
 

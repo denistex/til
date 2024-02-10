@@ -19,5 +19,6 @@ enable it in an existing project:
 See also:
 
 [Nullable reference types | Microsoft Learn](https://learn.microsoft.com/en-us/dotnet/csharp/nullable-references)
+
 [Nullable compiler option | Microsoft Learn](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/compiler-options/language#nullable)
 

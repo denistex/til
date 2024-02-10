@@ -11,6 +11,7 @@ A collection of concise write-ups on small things I learn day to day.
 
 ### C Sharp
 
+- [Nullable Reference Types](c-sharp/nullable-reference-types.md)
 - [Parameterised Tests In xUnit](c-sharp/parameterised-tests-in-xunit.md)
 - [Struct Default Constructor](c-sharp/struct-default-constructor.md)
 

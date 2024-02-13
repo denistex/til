@@ -15,6 +15,10 @@ A collection of concise write-ups on small things I learn day to day.
 - [Parameterised Tests In xUnit](c-sharp/parameterised-tests-in-xunit.md)
 - [Struct Default Constructor](c-sharp/struct-default-constructor.md)
 
+### Vim
+
+- [Registers](vim/registers.md)
+
 ## About
 
 I shamelessly stole this idea from

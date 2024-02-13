@@ -15,11 +15,6 @@ A collection of concise write-ups on small things I learn day to day.
 - [Parameterised Tests In xUnit](c-sharp/parameterised-tests-in-xunit.md)
 - [Struct Default Constructor](c-sharp/struct-default-constructor.md)
 
-### English
-
-- [Sit Right/Well (With Someone)](english/sit-right.md)
-- [Touch Grass](english/touch-grass.md)
-
 ## About
 
 I shamelessly stole this idea from

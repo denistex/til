@@ -7,7 +7,7 @@ A collection of concise write-ups on small things I learn day to day.
 ## Categories
 
 - [C Sharp](#c-sharp)
-- [English](#english)
+- [Vim](#vim)
 
 ### C Sharp
 

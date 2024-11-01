@@ -22,7 +22,7 @@ A collection of concise write-ups on small things I learn day to day.
 
 ### Browser Developer Tools
 
-- [How to hide `OPTIONS` requests on the Network tab](vim/options.md)
+- [How to hide `OPTIONS` requests on the Network tab](devtools/options.md)
 
 ## About
 

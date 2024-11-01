@@ -7,7 +7,7 @@ is a register name (lowercase a-z) and `{yank}` is one of many possible
 yank commands: `yas` to yank a sentence, `3yy` to yank three lines, etc.
 
 It is possible to specify a register for the delete operation as well:
-`"wdaw"` will delete a word and write it to the `w` register.
+`"wdaw` will delete a word and write it to the `w` register.
 
 To put text from a register, type `"{register}p`.
 

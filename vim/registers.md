@@ -16,7 +16,7 @@ There is a special register `*` that represents the system clipboard:
 put it back. However, not all versions of Vim support that.
 
 It is also possible to append text to a register by using uppercase
-register names, for example, `"Ayy"` will append a line to the `a`
+register names, for example, `"Ayy` will append a line to the `a`
 register.
 
 To write a sequence of keystrokes to a register, type

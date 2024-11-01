@@ -8,6 +8,7 @@ A collection of concise write-ups on small things I learn day to day.
 
 - [C Sharp](#c-sharp)
 - [Vim](#vim)
+- [Browser Developer Tools](#browser-developer-tools)
 
 ### C Sharp
 
@@ -18,6 +19,10 @@ A collection of concise write-ups on small things I learn day to day.
 ### Vim
 
 - [Registers](vim/registers.md)
+
+### Browser Developer Tools
+
+- [How to hide `OPTIONS` requests on the Network tab](vim/options.md)
 
 ## About
 

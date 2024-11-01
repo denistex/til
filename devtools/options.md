@@ -1,5 +1,9 @@
-# How to hide `OPTIONS` requests in Developer Tools
+# How to hide `OPTIONS` requests on the Network tab
 
-In order to hide preflight request from the Network tab set the following filter: `-method:OPTIONS`.
+In order to hide preflight request on the Network tab set the following filter:
+
+```
+-method:OPTIONS
+```
 
 [Source](https://stackoverflow.com/a/39256588)
